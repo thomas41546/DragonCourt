@@ -1,0 +1,29 @@
+status: 304
+content-length: 574
+content-location: http://example.org/
+accept-ranges: bytes
+server: Apache/2.2.3 (CentOS)
+last-modified: Thu, 03 Jun 2010 17:40:12 GMT
+connection: Keep-Alive
+etag: "4d2c-23e-48823b2cf3700"
+x-cntnt-length: 574
+date: Fri, 02 Jul 2010 19:48:57 GMT
+content-type: text/html; charset=UTF-8
+age: 1129
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+  <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <TITLE>Example Web Page</TITLE>
+</HEAD> 
+<body>  
+<p>You have reached this web page by typing &quot;example.com&quot;,
+&quot;example.net&quot;,
+  or &quot;example.org&quot; into your web browser.</p>
+<p>These domain names are reserved for use in documentation and are not available 
+  for registration. See <a href="http://www.rfc-editor.org/rfc/rfc2606.txt">RFC 
+  2606</a>, Section 3.</p>
+</BODY>
+</HTML>
+
